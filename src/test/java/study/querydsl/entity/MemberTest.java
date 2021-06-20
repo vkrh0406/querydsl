@@ -21,6 +21,9 @@ class MemberTest {
     @PersistenceContext
     EntityManager em;
 
+
+
+
     @Test
     public void testEntity(){
 
